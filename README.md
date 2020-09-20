@@ -1,2 +1,3 @@
-# onair-apk
-Installable signed APK file
+# Onair Signed APK - Android devices
+
+Download and install APK file for OnAir Mastery learning
